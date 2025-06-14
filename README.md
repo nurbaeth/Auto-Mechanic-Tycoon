@@ -23,5 +23,5 @@ The game is written in Solidity. It uses:
 ```solidity  
 function repairCar() external onlyRegistered {  
     ...  
-    reputation += 10;
+    reputation += 10;  
 }
