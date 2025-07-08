@@ -17,7 +17,7 @@ Every action is a transaction on-chain. There are no off-chain tricks — what y
    
 The game is written in Solidity. It uses:  
 - Daily repair limits (resets every 24h)   
-- On-chain reputation tracking  
+- On-chain reputation tracking    
 - Stateless repair system (no NFTs or tokens required)  
   
 ```solidity  
