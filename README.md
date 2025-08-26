@@ -19,7 +19,7 @@ The game is written in Solidity. It uses:
 - Daily repair limits (resets every 24h)   
 - On-chain reputation tracking     
 - Stateless repair system (no NFTs or tokens required)   
-    
+     
 ```solidity     
 function repairCar() external onlyRegistered {  
     ...   
