@@ -11,7 +11,7 @@ In this game, you:
 - 🌟 Earn reputation points for every successful repair     
 - 📈 Compete with others to become the top-rated mechanic       
         
-Every action is a transaction on-chain. There are no off-chain tricks — what you see is what the blockchain sees.   
+Every action is a transaction on-chain. There are no off-chain tricks — what you see is what the blockchain sees.    
      
 ## ⚙️ Smart Contract    
      
