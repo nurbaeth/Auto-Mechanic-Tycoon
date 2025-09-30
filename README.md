@@ -8,7 +8,7 @@ In this game, you:
        
 - 🔧 Register as a mechanic        
 - 🧰 Repair up to 3 cars per day     
-- 🌟 Earn reputation points for every successful repair    
+- 🌟 Earn reputation points for every successful repair     
 - 📈 Compete with others to become the top-rated mechanic      
         
 Every action is a transaction on-chain. There are no off-chain tricks — what you see is what the blockchain sees.   
