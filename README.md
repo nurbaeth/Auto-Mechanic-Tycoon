@@ -13,7 +13,7 @@ In this game, you:
        
 Every action is a transaction on-chain. There are no off-chain tricks — what you see is what the blockchain sees.   
      
-## ⚙️ Smart Contract   
+## ⚙️ Smart Contract    
      
 The game is written in Solidity. It uses:     
 - Daily repair limits (resets every 24h)     
