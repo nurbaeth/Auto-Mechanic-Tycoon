@@ -21,7 +21,7 @@ The game is written in Solidity. It uses:
 - Stateless repair system (no NFTs or tokens required)      
           
 ```solidity        
-function repairCar() external onlyRegistered {    
+function repairCar() external onlyRegistered {     
     ...     
     reputation += 10;   
 }   
