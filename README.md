@@ -20,7 +20,7 @@ The game is written in Solidity. It uses:
 - On-chain reputation tracking         
 - Stateless repair system (no NFTs or tokens required)      
           
-```solidity       
+```solidity        
 function repairCar() external onlyRegistered {    
     ...     
     reputation += 10;   
