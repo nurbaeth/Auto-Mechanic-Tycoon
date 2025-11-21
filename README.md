@@ -4,7 +4,7 @@ A simple on-chain game built with Solidity where **you are the mechanic**. Repai
            
 ## 🚗 Gameplay Overview               
                   
-In this game, you:     
+In this game, you:      
           
 - 🔧 Register as a mechanic          
 - 🧰 Repair up to 3 cars per day       
