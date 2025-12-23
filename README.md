@@ -6,8 +6,8 @@ A simple on-chain game built with Solidity where **you are the mechanic**. Repai
                    
 In this game, you:       
             
-- 🔧 Register as a mechanic          
-- 🧰 Repair up to 3 cars per day       
+- 🔧 Register as a mechanic           
+- 🧰 Repair up to 3 cars per day        
 - 🌟 Earn reputation points for every successful repair      
 - 📈 Compete with others to become the top-rated mechanic        
           
