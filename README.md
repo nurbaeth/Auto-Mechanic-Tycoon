@@ -1,5 +1,5 @@
 # 🛠️ Auto Mechanic Tycoon               
-             
+              
 A simple on-chain game built with Solidity where **you are the mechanic**. Repair virtual cars, upgrade your garage (soon™), and build your reputation — all on the Ethereum blockchain. No tokens. No staking. Just pure logic and gameplay stored on-chain.        
             
 ## 🚗 Gameplay Overview                
